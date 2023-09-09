@@ -1,0 +1,27 @@
+{
+    "RUN": "/main.py",
+    "DEBUG": false,
+    "PROJECT_NAME": "My solution",
+    "PREFERED_LANG": "it",
+    "TAL_SERVERS": [
+        "wss://ta.di.univr.it/algo",
+        "wss://ta.di.univr.it/sfide",
+        "ws://localhost:8008/"
+    ],
+    "TAL_SERVER": "wss://ta.di.univr.it/algo",
+    "TAL_PROBLEM": "",
+    "TAL_SERVICE": "",
+    "TAL_TOKEN": "",
+    "DIR_PROJECT": "/.talight/",
+    "DIR_ATTACHMENTS": "/data/",
+    "DIR_RESULTS": "/results/",
+    "DIR_ARGSFILE": "/files/",
+    "DIR_EXAMPLES": "/examples/",
+    "CREATE_EXAMPLES": true,
+    "HOTKEY_RUN": "f8",
+    "HOTKEY_TEST": "f9",
+    "HOTKEY_SAVE": "ctrl+s",
+    "CONFIG_NAME": "talight.json",
+    "CONFIG_PATH": "/.talight/talight.json",
+    "EXTRA_PACKAGES": []
+}
